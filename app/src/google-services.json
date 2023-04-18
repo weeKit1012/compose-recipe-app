@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111198571278",
+    "project_id": "recipe-6f20b",
+    "storage_bucket": "recipe-6f20b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111198571278:android:5d90d105e31fcbb891255f",
+        "android_client_info": {
+          "package_name": "com.example.composerecipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111198571278-eouedg3nioqqbgk1v5bc5s54inhqrudo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARlYq8SrDmsDbXX1VHvSzgSzAz8mIwWUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111198571278-eouedg3nioqqbgk1v5bc5s54inhqrudo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

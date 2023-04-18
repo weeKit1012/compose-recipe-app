@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe_data>
+    <recipe>
+        <title>Zucchini slice</title>
+        <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</description>
+        <ingredients>Baking Powders, Eggs, All-purpose flour, Milk, White Sugar, Raisins</ingredients>
+        <steps>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</steps>
+        <category_type>Breakfast</category_type>
+        <image_uri>https://firebasestorage.googleapis.com/v0/b/recipe-6f20b.appspot.com/o/images%2F14415-cobb-salad-ddmfs-0310-3x4-1-0b07d238fa8b4060bb47055c6b429069.jpg?alt=media&amp;token=c288767f-4e66-4040-ac76-57a7e5599a00</image_uri>
+        <date_created>2023-04-19</date_created>
+        <id>101</id>
+    </recipe>
+    <recipe>
+        <title>Easy fried rice</title>
+        <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</description>
+        <ingredients>Fire Powders, Eggs, No-purpose flour, Milk, Black Sugar, Raisins</ingredients>
+        <steps>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</steps>
+        <category_type>Lunch</category_type>
+        <image_uri>https://firebasestorage.googleapis.com/v0/b/recipe-6f20b.appspot.com/o/images%2FChocolate-Chip-Pancakes.png?alt=media&amp;token=3f2d7ff6-1326-47d5-a44d-cf6438e41ef6</image_uri>
+        <date_created>2023-04-19</date_created>
+        <id>102</id>
+    </recipe>
+    <recipe>
+        <title>Classic shepherd's pie</title>
+        <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</description>
+        <ingredients>Milk, Black Sugar</ingredients>
+        <steps>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</steps>
+        <category_type>Dinner</category_type>
+        <image_uri>https://firebasestorage.googleapis.com/v0/b/recipe-6f20b.appspot.com/o/images%2Fk_Photo_Recipes_2021-09-breakfast-grits_New%20Finals_2021-10-12_ATK8035.jpeg?alt=media&amp;token=286e62d0-544f-4966-a410-8a23ca77374a</image_uri>
+        <date_created>2023-04-19</date_created>
+        <id>103</id>
+    </recipe>
+    <recipe>
+        <title>Impossible quiche</title>
+        <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</description>
+        <ingredients>Fire Powders, Eggs</ingredients>
+        <steps>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</steps>
+        <category_type>Appetizer</category_type>
+        <image_uri>https://firebasestorage.googleapis.com/v0/b/recipe-6f20b.appspot.com/o/images%2FLumberjack-Breakfast2.webp?alt=media&amp;token=6d1a76a5-a8a7-4585-ac6b-f2ccdb663bf1</image_uri>
+        <date_created>2023-04-19</date_created>
+        <id>104</id>
+    </recipe>
+    <recipe>
+        <title>Our favourite lasagne</title>
+        <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</description>
+        <ingredients>Black Sugar, Raisins</ingredients>
+        <steps>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</steps>
+        <category_type>Salad</category_type>
+        <image_uri>https://firebasestorage.googleapis.com/v0/b/recipe-6f20b.appspot.com/o/images%2FEpic-summer-salad-hub-2646e6e.jpg?alt=media&amp;token=99e347bb-e668-46f1-907e-bf3b48df4091</image_uri>
+        <date_created>2023-04-19</date_created>
+        <id>105</id>
+    </recipe>
+    <recipe>
+        <title>Curried sausages</title>
+        <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</description>
+        <ingredients>All-purpose flour, Milk</ingredients>
+        <steps>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</steps>
+        <category_type>Others</category_type>
+        <image_uri>https://firebasestorage.googleapis.com/v0/b/recipe-6f20b.appspot.com/o/images%2Fbaked-eggs-and-zoodles-bundles1-1661458891.jpeg?alt=media&amp;token=a4a506a9-90b9-4f1b-a702-0102a786d094</image_uri>
+        <date_created>2023-04-19</date_created>
+        <id>106</id>
+    </recipe>
+</recipe_data>
